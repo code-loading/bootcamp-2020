@@ -4,6 +4,8 @@ We will teach you online to Build Modern Full Stack Mobile Web Apps and Websites
 
 We have to understand humanity is facing a COVID-19 induced global economic recession and only the high-tech and software companies have grown and their stock prices and business have risen in this environment. We need to immediately get ready to face the upcoming economic crises boldly.
 
+[Pakistan Digital Gig Economy Surged 69% Amid COVID19 Pandemic](http://www.pakalumni.com/m/blogpost?id=1119293%3ABlogPost%3A312758)
+
 # Table of Contents
 1. [Introduction to English and Urdu Sections](#introduction-to-english-and-urdu-sections)
 2. [Prerequisites](#prerequisites-html-css-and-javascript)
@@ -39,14 +41,14 @@ We have to understand humanity is facing a COVID-19 induced global economic rece
     * [Bootcamp Project 10: Build a Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript](#bootcamp-project-10-build-a-signup-form-and-multi-step-form-with-formik-yup-and-material-ui-using-typescript)
 20. [Class 29 and 30 React Component Driven Development with Storybook and Bit](#class-29-and-30-react-component-driven-development-with-storybook-and-bit)
     * [Bootcamp Project 11: Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit](#bootcamp-project-11--build-a-taskbox-react-component-in-typescript-using-storybook-and-publishing-it-on-bit)
-21. [Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS](#class-31-32-and-33-learn-jamstack-serverless-and-headless-cms)
+21. [Class 31 to 41 Learn JAMstack Serverless and Headless CMS](#class-31-to-41-learn-jamstack-serverless-and-headless-cms)
     * [Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify](#bootcamp-2020-project-12a-build-a-blog-site-in-gatsbyjs-and-contentful-with-typescript-and-deploy-on-netlify)
     * [Bootcamp 2020 Project 12B: Building Serverless CRUD apps with Netlify Functions and FaunaDB](#bootcamp-2020-project-12b-building-serverless-crud-apps-with-netlify-functions-and-faunadb)
     * [Bootcamp 2020 Project 12C: Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB](#bootcamp-2020-project-12c-building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb)
     * [Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby](#bootcamp-2020-project-12d-create-a-bookmarking-application-with-faunadb-netlify-and-gatsby)
     * [Bootcamp 2020 Project 12E: Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6](#bootcamp-2020-project-12e-virtual-lolly-using-gatsby-netlify-faunadb-formik-and-storybook-6)
     * [Bootcamp 2020 Extra Project 12F: Build a Macro Compliance Tracker in Next and MongoDB Atlas with TypeScript and Deploy on Vercel](#bootcamp-2020-extra-project-12f-build-a-macro-compliance-tracker-in-next-and-mongodb-atlas-with-typeScript-and-deploy-on-vercel)
-22. [Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-34-38-jamstack-ecommerce-stripe-shopify-and-snipcart)
+22. [Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart](#class-42-50-jamstack-ecommerce-stripe-shopify-and-snipcart)
 23. [Now you are ready to do these kinds of jobs](#now-you-are-ready-to-do-these-kinds-of-jobs)
     * [Homework Reading Material: Writing Custom Hooks](#homework-reading-material-writing-custom-hooks)
     * [Homework Reading Material: Higher-Order Components In React](#homework-reading-material-higher-order-components-in-react)
@@ -116,6 +118,8 @@ These topics have been released for everyone in Urdu:
 [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 
 Note: Material in English is already available [extensively on the web](https://css-tricks.com/where-do-you-learn-html-css-in-2020/).
+
+[Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 
 ## Class 1: Development Setup
@@ -940,7 +944,7 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 [Taskbox with Storybook for React tutorial](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)
 
 
-## Class 31, 32, and 33 Learn JAMstack Serverless and Headless CMS
+## Class 31 to 41 Learn JAMstack Serverless and Headless CMS
 
 [Learn JAMstack Serverless in Baby Steps](https://github.com/panacloud-modern-global-apps/jamstack-serverless)
 
@@ -970,6 +974,75 @@ Build a Taskbox, a task management UI (similar to Asana), complete with multiple
 
 [Class 33 in Urdu on YouTube](https://www.youtube.com/watch?v=rdcqnWJK2Mk)
 
+[Class 34 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224621671314095/)
+
+[Class 34 in English on YouTube](https://www.youtube.com/watch?v=5bjdsQ95Z44)
+
+[Class 34 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224632582426866/)
+
+[Class 34 in Urdu on YouTube](https://www.youtube.com/watch?v=Q-QiqHBKQjQ)
+
+[Class 35 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+
+[Class 35 in English on YouTube](https://www.youtube.com/watch?v=8PxEZjYUKpc)
+
+[Class 35 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
+
+[Class 35 in Urdu on YouTube](https://www.youtube.com/watch?v=uMDyvor_k9k)
+
+[Class 36 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+
+[Class 36 in English on YouTube](https://www.youtube.com/watch?v=URXA_2HV61s)
+
+[Class 36 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
+
+[Class 36 in Urdu on YouTube](https://www.youtube.com/watch?v=ysEQiXY9ozM)
+
+[Class 37 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224715900029754/)
+
+[Class 37 in English on YouTube](https://www.youtube.com/watch?v=3B_vkzD0kRI)
+
+[Class 37 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224726664858868/)
+
+[Class 37 in Urdu on YouTube](https://www.youtube.com/watch?v=2mb2IFVL4Jw)
+
+[Class 38 in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
+
+[Class 38 in English on YouTube](https://www.youtube.com/watch?v=ZXzxL4LDQs4)
+
+[Class 38 in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224750968586446/)
+
+[Class 38 in Urdu on YouTube](https://www.youtube.com/watch?v=tEpOHCrR9Z8)
+
+[Class 39 in English on Facebook - Project 12C Todo App](https://www.facebook.com/zeeshanhanif/videos/10224773799597207/)
+
+[Class 39 in English on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=jOmFJzafRb8)
+
+[Class 39 in Urdu on Facebook - Project 12C Todo App](https://www.facebook.com/zeeshanhanif/videos/10224784025892858/)
+
+[Class 39 in Urdu on YouTube - Project 12C Todo App](https://www.youtube.com/watch?v=PUYydBwrgC0)
+
+[Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
+
+[Class 40 in English on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224799074469063/)
+
+[Class 40 in English on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=FPH7NYrdBgY)
+
+[Project 12D Bookmark App by Daniyal](https://github.com/daniyalnagori/bookmarking-app)
+
+[Class 40 in Urdu on Facebook - Project 12D Bookmark App](https://www.facebook.com/zeeshanhanif/videos/10224807488559410/)
+
+[Class 40 in Urdu on YouTube - Project 12D Bookmark App](https://www.youtube.com/watch?v=fAQG0bN5h6s)
+
+[Class 41 in English on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224830783101759/)
+
+[Class 41 in English on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=zlhY7bRYR1A)
+
+[Zeeshan's Virtual Lolly App Code Repo](https://github.com/zeeshanhanif/gatsby-virtual-lolly)
+
+[Class 41 in Urdu on Facebook - Project 12E Virtual Lolly App](https://www.facebook.com/zeeshanhanif/videos/10224839747005851/)
+
+[Class 41 in Urdu on YouTube - Project 12E Virtual Lolly App](https://www.youtube.com/watch?v=CJ42Nw5Vksk)
 
 ### Bootcamp 2020 Project 12A: Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify
 
@@ -1006,6 +1079,8 @@ We want you to build this blog site with gated content, available only for logge
 
 [Project Videos](https://egghead.io/playlists/building-a-serverless-jamstack-todo-app-with-netlify-gatsby-graphql-and-faunadb-53bb)
 
+[Project 12C Todo App by Adil](https://github.com/adil-innovation-lab/JAMstackTodo)
+
 ### Bootcamp 2020 Project 12D: Create A Bookmarking Application With FaunaDB, Netlify And Gatsby
 
 [Project Article](https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/)
@@ -1031,12 +1106,28 @@ Note: In the above article the project is done using 11ty however you are requir
 
 [Building Modern Applications with Next.js and MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
-## Class 34-38: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
+
+## Class 42-50: Jamstack Ecommerce: Stripe, Shopify, and Snipcart
+
+[JAMstack Ecommerce](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
 
 [Ecommerce Shop Landing Page Design](https://www.uplabs.com/posts/e-commerce-shop-landing-page)
 
-[Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
+## Multicloud Serverless
 
+[Multicloud Serverless](https://github.com/panacloud-modern-global-apps/multicloud-serverless)
+
+## Building Multi-Tenant Serverless SaaS API's
+
+[Multi-Tenant Serverless SaaS API's](https://github.com/panacloud-modern-global-apps/serverless-saas-api)
+
+## AI as a Service
+
+[Serverless machine learning with AWS](https://www.manning.com/books/ai-as-a-service)
+
+## Blockchain as a Service
+
+[A BEGINNER’S GUIDE TO BLOCKCHAIN AS A SERVICE](https://www.leewayhertz.com/guide-to-blockchain-as-a-service/)
 
 ### Now you are ready to do these kinds of jobs
 
